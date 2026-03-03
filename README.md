@@ -21,7 +21,7 @@ In alignment with the program's focus, AI tools were utilized to:
 3.  Draft professional documentation and task descriptions.
 
 ## 📥 Installation & Setup
-1. Clone the repository: `git clone [Your Repo URL]`
+1. Clone the repository: `git clone [https://github.com/snaimio/sheikh_vcc_3.git]`
 2. Open `index.html` in your preferred browser.
 3. To view mobile responsiveness, use the browser's Developer Tools (F12) and toggle the Device Toolbar.
 
