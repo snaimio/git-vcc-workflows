@@ -1,15 +1,15 @@
 <div align="center">
 
-# 🌳 Git Version Control & Collaboration Workflows
-### Trunk-Based Development, Branching Strategies & Merge Conflict Resolution
+# 🔄 Advanced Git Collaboration & Release Workflows
+### Trunk-Based Development, Pull Request Lifecycle & Branch Protection
 
-[![Git](https://img.shields.io/badge/Git-VCS-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Workflows-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Git](https://img.shields.io/badge/Git-Workflows-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Code%20Review-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![License](https://img.shields.io/badge/License-MIT-CEFF00?style=for-the-badge&logoColor=black)](LICENSE)
 
 <br/>
 
-**A technical reference repository demonstrating production-grade Git workflows, feature branching, pull request code reviews, rebase workflows, and 3-way merge conflict resolution.**
+**A collaborative Git workflow reference demonstrating trunk-based feature branching, pull request reviews, automated CI triggers, and release tagging protocols.**
 
 </div>
 
@@ -18,12 +18,12 @@
 ---
 
 ## 📌 Technical Overview
-This repository captures industry-standard version control methodologies used in collaborative agile engineering teams.
+This repository details agile workflow strategies used by distributed development teams to maintain stable mainlines and accelerate delivery.
 
-### 💼 Key Workflows Demonstrated
-- **Feature Branching & Trunk-Based Development**: Clean commit history with atomic, semantic commit messages.
-- **3-Way Merge Conflict Resolution**: Identifying conflict markers (`<<<<<<<`, `=======`, `>>>>>>>`), manual reconciliation, and clean fast-forward merges.
-- **GitHub Pull Request Workflows**: Issue tracking, branch protection, code review guidelines, and squashing commits.
+### 💼 Workflow Architecture
+- **Trunk-Based Feature Branches**: Short-lived feature branches linked to GitHub issues for clear traceability.
+- **Pull Request Protocol**: Mandatory PR templates, peer code reviews, inline comment resolution, and squashing on merge.
+- **Release Versioning**: Semantic release tagging (`v1.0.0`) and automated release notes generation.
 
 ---
 
