@@ -1,29 +1,40 @@
-# Portfolio Project: TODO Web Application
+<div align="center">
 
-A responsive web application built to demonstrate modern development standards, mobile-first design, and AI-assisted workflows.
+# 🌳 Git Version Control & Collaboration Workflows
+### Trunk-Based Development, Branching Strategies & Merge Conflict Resolution
 
-## 🎯 Project Objective
-This project serves as a key assignment for the **Mobile Web Developer** program at triOS College. The goal is to showcase proficiency in front-end architecture, iterative development using Git, and professional documentation practices.
+[![Git](https://img.shields.io/badge/Git-VCS-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Workflows-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![License](https://img.shields.io/badge/License-MIT-CEFF00?style=for-the-badge&logoColor=black)](LICENSE)
 
-## 🛠️ Technical Stack
-* **Languages:** HTML5, CSS3, JavaScript (ES6+).
-* **Design:** Figma (Prototyping & UI/UX).
-* **Workflow:** Git/GitHub for version control.
-* **AI Integration:** Leveraging AI tools to optimize coding efficiency and troubleshooting.
+<br/>
 
-## ✨ Key Features
-* **Mobile-First Design:** Optimized for small screens first, ensuring a seamless experience across all devices.
+**A technical reference repository demonstrating production-grade Git workflows, feature branching, pull request code reviews, rebase workflows, and 3-way merge conflict resolution.**
 
-## 🧠 AI Reflection & Process
-In alignment with the program's focus, AI tools were utilized to:
-1.  Assist in debugging complex JavaScript logic.
-2.  Generate semantic HTML structures for better accessibility.
-3.  Draft professional documentation and task descriptions.
+</div>
 
-## 📥 Installation & Setup
-1. Clone the repository: `git clone https://github.com/snaimio/sheikh_vcc_3.git`
-2. Open `index.html` in your preferred browser.
-3. To view mobile responsiveness, use the browser's Developer Tools (F12) and toggle the Device Toolbar.
+<br/>
 
 ---
-&copy; 2026 Sheikh Naim | triOS College Mobile Web Developer Program
+
+## 📌 Technical Overview
+This repository captures industry-standard version control methodologies used in collaborative agile engineering teams.
+
+### 💼 Key Workflows Demonstrated
+- **Feature Branching & Trunk-Based Development**: Clean commit history with atomic, semantic commit messages.
+- **3-Way Merge Conflict Resolution**: Identifying conflict markers (`<<<<<<<`, `=======`, `>>>>>>>`), manual reconciliation, and clean fast-forward merges.
+- **GitHub Pull Request Workflows**: Issue tracking, branch protection, code review guidelines, and squashing commits.
+
+---
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 Author
+**Sheikh Naim**  
+*Mobile & Full-Stack Web Developer*  
+- **LinkedIn**: [linkedin.com/in/snaimio](https://www.linkedin.com/in/snaimio)  
+- **GitHub**: [@snaimio](https://github.com/snaimio)  
+- **Portfolio**: [snaimio.github.io](https://snaimio.github.io)
